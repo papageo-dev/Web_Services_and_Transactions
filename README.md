@@ -16,14 +16,14 @@ On the Homepage (“HomePage.aspx”) there is a menu of the site links, through
 
 # Web Services Report
 
-The available Web Services and their fuctions/operations are:
- **1. Number Conversion Service (Number Conversion)**
-     - Convert number to plain text
-     - Convert number to dollars text
- **2. Fax Machine Error Checking Service (InterFax)**
-     - Display the error description of a Fax machine based on input error code
-     - File type control supported by Fax devices
- **3. Chemical Structure / Properties Search Service (MassSpecAPI)**
-     - Searchof chemical elements/structures in a public database(ChemSpider), based on the initial letter
-     
-*More details about website implementation and Web Services management can be found in the “Web_Services_Report.pdf” file.*
+The available Web Services and their fuctions/operations are:                                                                                                                       
+ **1. Number Conversion Service (Number Conversion)**                                                                                                                               
+     - Convert number to plain text                                                                                                                                                 
+     - Convert number to dollars text                                                                                                                                               
+ **2. Fax Machine Error Checking Service (InterFax)**                                                                                                                               
+     - Display the error description of a Fax machine based on input error code                                                                                                     
+     - File type control supported by Fax devices                                                                                                                                   
+ **3. Chemical Structure / Properties Search Service (MassSpecAPI)**                                                                                                               
+     - Search of chemical elements/structures in a public database(ChemSpider), based on the initial letter                                                                         
+                                                                                                                                                                                   
+*More details about website implementation and Web Services management can be found in the “Web_Services_Report.pdf” file.*                                                        
