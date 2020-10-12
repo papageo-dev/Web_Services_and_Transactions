@@ -8,7 +8,7 @@ The site was created using "Microsoft Visual Studio Enterprise 2015". Developmen
 
 # General Description
 
-In "YSPI_Assignment_2020" there is a website in ASP.NET environment with C# programming language, which demonstrates the use of three different Web Services.                   (The Web Services I used are public and free.)
+In "YSPI_Assignment_2020" there is a website in ASP.NET environment with C# programming language, which demonstrates the use of three different Web Services(SOAP).             (The Web Services I used are public and free.)
 
 # Project/Website Content
 
